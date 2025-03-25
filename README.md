@@ -37,7 +37,7 @@ By leveraging these insights, businesses can improve their sales strategies, inv
 - Helps identify high and low-performing regions.
 
 ### 👥5. Customer Insights
-- 🏆**"Sum of Amount by Customer Name"** identifies the highest-spending customers.
+- 🏆"Sum of Amount by Customer Name" identifies the highest-spending customers.
 - Allows businesses to track and improve customer engagement.
 
 ## 📷Preview
@@ -54,9 +54,11 @@ https://github.com/user-attachments/assets/c1ac6b9b-e7a2-4e85-9fa7-9a621e4ff6af
 
 
 ## 🛠️Tools & Technologies Used
-- **📊Power BI** for data visualization and reporting.
-- **📑SQL / Excel** (optional) for data preparation and preprocessing.
-
+- 💻 Power BI – For interactive data visualization and reporting.
+- 📂 CSV Files – Used as the primary data source for the dashboard.
+- 📅 Excel – For initial data cleaning and structuring.
+- 🛠️ DAX & Power Query – Used for calculations, data modeling, and transformations.- Power BI for data visualization and reporting.
+- 📑SQL / Excel (optional) for data preparation and preprocessing.
 
 
 ## 📝How to Use
