@@ -1,4 +1,6 @@
 # E-Commerce Sales Dashboard - Power BI
+![Power BI](https://img.shields.io/badge/Power%20BI-FAE04D?style=for-the-badge&logo=powerbi&logoColor=black)
+
 
 ## 📊Overview
 The E-Commerce Sales Dashboard is a Power BI-based data visualization tool designed to help businesses analyze and optimize their sales performance. It provides deep insights into profitability, customer purchasing behavior, payment preferences, and regional trends.
